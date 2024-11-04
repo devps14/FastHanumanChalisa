@@ -2,7 +2,7 @@ import java.io.IOException;
 public class YouTubeLiveStream {
     public static void main(String[] args) {
         // YouTube RTMP URL with your stream key
-        String streamKey = "ea44-mwp4-e8g1-sxu5-0ryr"; // Replace with your actual YouTube stream key
+        String streamKey = "ea7667yuyghjbhjvvgtytytyfryr"; // Replace with your actual YouTube stream key
         String rtmpUrl = "rtmp://a.rtmp.youtube.com/live2/" + streamKey;
 
         // FFmpeg command for continuous streaming
