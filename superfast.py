@@ -4,7 +4,7 @@ import subprocess
 
 # Stream configuration
 YOUTUBE_STREAM_URL = "rtmp://a.rtmp.youtube.com/live2/"
-YOUTUBE_STREAM_KEY = "ea44-mwp4-e8g1-sxu5-0ryr"  # replace with your actual stream key
+YOUTUBE_STREAM_KEY = "ea4tffggghttytyytt6yt67y676676jnhfug78xu5-0ryr"  # replace with your actual stream key
 VIDEO_PATH = "https://github.com/devps14/FastHanumanChalisa/blob/main/HanumanChalisa.mp4"  # path to the video you want to stream
 LOOP_VIDEO = True  # Set True to loop the video
 
